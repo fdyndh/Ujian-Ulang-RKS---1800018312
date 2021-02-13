@@ -7,7 +7,7 @@ Berikut saya sertakan tautan folder UTS sebelumnya yg berisi workflow, wireframe
 https://drive.google.com/drive/folders/1aJgxd9LTptPBdvFrdvLv-aqMwHD0f1US?usp=sharing
 
 Berikut file-file yang digunakan dalam pembuatan aplikasi cek resi jne
-# A. Layout : <h2> 
+1. A. Layout : 
 ## - activity_buat_akun.xml <h3> 
 ## - activity_cek_resi.xml <h3>
  
