@@ -8,6 +8,5 @@ https://drive.google.com/drive/folders/1aJgxd9LTptPBdvFrdvLv-aqMwHD0f1US?usp=sha
 
 Berikut file-file yang digunakan dalam pembuatan aplikasi cek resi jne
 # A. Layout : <h2> 
-## - activity_buat_akun.xml
- - activity_cek_resi.xml <h3> tag
+## - activity_buat_akun.xml  - activity_cek_resi.xml <h3> tag
  
