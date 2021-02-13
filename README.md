@@ -1,2 +1,7 @@
-# Ujian-Ulang-RKS---1800018312
-aplikasi cek resi jne 
+# Ujian-Ulang-RKS
+fidiyah nadhili rahmadani - 1800018312
+
+# Aplikasi Cek Resi JNE versi Mobile
+###### Bahwa front end yg dibangun mengikuti/sesuai dengan rancangan wireframe, workflow, dan dokumentasi kebutuhan yg telah dibuat sebelum UAS. Hanya saja perbedaan tampilan FE menggunakan web dan mobile tetapi untuk semua komponen serta fitur yang ada tidak ada perubahan. Pembuatan Aplikasi menggunakan vscode lalu proses running dilakukan pada browser.
+Berikut saya sertakan tautan folder UTS sebelumnya yg berisi workflow, wireframe, dan dokumentasi kebutuhan.
+ 
