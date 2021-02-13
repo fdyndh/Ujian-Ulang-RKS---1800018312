@@ -1,31 +1,28 @@
-# Ujian-Ulang-RKS
-fidiyah nadhili rahmadani - 1800018312
-
-Aplikasi Cek Resi JNE versi Mobile
- Bahwa front end yg dibangun mengikuti/sesuai dengan rancangan wireframe, workflow, dan dokumentasi kebutuhan yg telah dibuat sebelum UAS. Hanya saja perbedaan tampilan FE menggunakan android studi dan berbasis mobile. Pembuatan Aplikasi menggunakan vscode lalu proses running dilakukan pada browser.
-Berikut saya sertakan tautan folder UTS sebelumnya yg berisi workflow, wireframe, dan dokumentasi kebutuhan.
+# Ujian-Ulang-RKS <h1>
+###### Bahwa front end yg dibangun mengikuti/sesuai dengan rancangan wireframe, workflow, dan dokumentasi kebutuhan yg telah dibuat sebelum UAS. Hanya saja perbedaan tampilan FE menggunakan android studi dan berbasis mobile. Pembuatan Aplikasi menggunakan vscode lalu proses running dilakukan pada browser.<h6>
+###### Berikut saya sertakan tautan folder UTS sebelumnya yg berisi workflow, wireframe, dan dokumentasi kebutuhan.
 https://drive.google.com/drive/folders/1aJgxd9LTptPBdvFrdvLv-aqMwHD0f1US?usp=sharing
-
-Berikut file-file yang digunakan dalam pembuatan aplikasi cek resi jne
-A. Layout : <h3>
-  - activity_buat_akun.xml <h3> 
-  - activity_cek_resi.xml <h3>
-  - activity_cek_resi_detail.xml <h3>
-  - activity_main.xml <h3>
-  - activity_otp.xml <h3>
-  - activity_pass_code.xml <h3>
-  - activity_welcome.xml <h3>
-  - app_bar_main.xml <h3>
- ## - content_main.xml <h3>
- ## - fragment_home.xml <h3>
- ## - fragment_login.xml <h3>
- ## - fragment_profil.xml <h3>
- ## - fragment_riwayat.xml <h3>
- ## - nav_header_main.xml <h3>
- ## - opening.xml <h3>
- ## - slide_kedua.xml <h3>
- ## - slide_ketiga.xml <h3>
- ## - slide_pertama.xml <h3>
+Berikut file - file yang digunakan dalam pembuatan aplikasi cek resi jne. <h6>
+ 
+ # A. Layout : <h3>
+ ### - activity_buat_akun.xml <h3> 
+ ### - activity_cek_resi.xml <h3>
+ ### - activity_cek_resi_detail.xml <h3>
+ ### - activity_main.xml <h3>
+ ### - activity_otp.xml <h3>
+ ### - activity_pass_code.xml <h3>
+ ### - activity_welcome.xml <h3>
+ ### - app_bar_main.xml <h3>
+ ### - content_main.xml <h3>
+ ### - fragment_home.xml <h3>
+ ### - fragment_login.xml <h3>
+ ### - fragment_profil.xml <h3>
+ ### - fragment_riwayat.xml <h3>
+ ### - nav_header_main.xml <h3>
+ ### - opening.xml <h3>
+ ### - slide_kedua.xml <h3>
+ ### - slide_ketiga.xml <h3>
+ ### - slide_pertama.xml <h3>
  
  # B.  Java : <h3>  
  ## - LoggedInUser.java <h3>
