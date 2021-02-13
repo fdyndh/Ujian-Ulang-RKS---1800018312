@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".ui.riwayat.RiwayatFragment">
+
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:stretchColumns="2" >
+
+        <TableRow
+            android:background="@color/grey1">
+            <TextView
+                android:layout_column="1"
+                android:text="TRANSAKSI"
+                android:textColor="@color/red"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-light"
+                android:layout_marginLeft="100dp"
+                android:padding="3dip" />
+            <TextView
+                android:text="TOPUP"
+                android:textColor="@color/red"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-light"
+                android:layout_marginLeft="100dp"
+                android:gravity="center_vertical"
+                android:padding="3dip" />
+        </TableRow>
+    </TableLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="vertical"
+        android:background="@color/red">
+
+        <TextView
+            android:id="@+id/text_riwayat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Riwayat"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif-light"
+            android:gravity="center_horizontal" />
+
+    </LinearLayout>
+
+</RelativeLayout>
