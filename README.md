@@ -1,8 +1,9 @@
 # Ujian-Ulang-RKS <h1> Aplikasi Cek Resi JNE 
-###### Bahwa front end yg dibangun mengikuti/sesuai dengan rancangan wireframe, workflow, dan dokumentasi kebutuhan yg telah dibuat sebelum UAS. Hanya saja perbedaan tampilan FE menggunakan android studi dan berbasis mobile. Pembuatan Aplikasi menggunakan vscode lalu proses running dilakukan pada browser.<h6>
+## Bahwa front end yg dibangun mengikuti/sesuai dengan rancangan wireframe, workflow, dan dokumentasi kebutuhan yg telah dibuat sebelum UAS. Hanya saja perbedaan tampilan FE menggunakan android studi dan berbasis mobile. Pembuatan Aplikasi menggunakan vscode lalu proses running dilakukan pada browser.<h2>
 ###### Berikut saya sertakan tautan folder UTS sebelumnya yg berisi workflow, wireframe, dan dokumentasi kebutuhan.
-https://drive.google.com/drive/folders/1aJgxd9LTptPBdvFrdvLv-aqMwHD0f1US?usp=sharing
-Berikut file - file yang digunakan dalam pembuatan aplikasi cek resi jne. <h6>
+https://drive.google.com/drive/folders/1aJgxd9LTptPBdvFrdvLv-aqMwHD0f1US?usp=sharing <h6>
+ 
+###### Berikut file - file yang digunakan dalam pembuatan aplikasi cek resi jne : <h6>
  
  # A. Layout : <h3>
  ### - activity_buat_akun.xml <h3> 
@@ -85,3 +86,6 @@ Berikut file - file yang digunakan dalam pembuatan aplikasi cek resi jne. <h6>
  
  # E. Manifest : <h3>
  ## - AndroidManifest.xml <h3>
+ 
+ ###### Berikut saya sertakan video gif aplikasi cek resi jne <h6>
+![gif aplikasi cek resi jne](https://user-images.githubusercontent.com/44845450/107865585-8debec80-6e9a-11eb-9722-6610def67142.gif)
