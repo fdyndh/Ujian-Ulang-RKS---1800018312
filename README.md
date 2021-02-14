@@ -1,5 +1,5 @@
 # Ujian-Ulang-RKS <h1> Aplikasi Cek Resi JNE 
-## Bahwa front end yg dibangun mengikuti/sesuai dengan rancangan wireframe, workflow, dan dokumentasi kebutuhan yg telah dibuat sebelum UAS. Tampilan FE dibuat menggunakan android studi dan berbasis mobile.<h2>
+## Bahwa front end yg dibangun mengikuti/sesuai dengan rancangan wireframe, workflow, dan dokumentasi kebutuhan yg telah dibuat sebelum UAS. Tampilan FE dibuat menggunakan android studio dan berbasis mobile.<h2>
 ###### Berikut saya sertakan tautan folder UTS sebelumnya yg berisi workflow, wireframe, dan dokumentasi kebutuhan.
 https://drive.google.com/drive/folders/1aJgxd9LTptPBdvFrdvLv-aqMwHD0f1US?usp=sharing <h6>
  
